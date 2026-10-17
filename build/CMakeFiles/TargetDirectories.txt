@@ -1,0 +1,3 @@
+C:/Users/emers/OneDrive/Documentos/ESTACIO/game/build/CMakeFiles/jogo_raylib.dir
+C:/Users/emers/OneDrive/Documentos/ESTACIO/game/build/CMakeFiles/edit_cache.dir
+C:/Users/emers/OneDrive/Documentos/ESTACIO/game/build/CMakeFiles/rebuild_cache.dir
